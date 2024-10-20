@@ -1,0 +1,3 @@
+/home/ylff/Desktop/tjurm2025-test2-master/build/CMakeFiles/tjurm_tutorial.dir
+/home/ylff/Desktop/tjurm2025-test2-master/build/CMakeFiles/edit_cache.dir
+/home/ylff/Desktop/tjurm2025-test2-master/build/CMakeFiles/rebuild_cache.dir
