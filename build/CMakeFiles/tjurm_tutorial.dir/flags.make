@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/ylff/Desktop/tjurm2025-test2-master/include -isystem /usr/local/opencv4.5.4/include/opencv4
+CXX_INCLUDES = -I/home/ylff/Desktop/tjurm2025-test2-master/include -I/usr/include/opencv4 -isystem /usr/local/opencv4.5.4/include/opencv4
 
 CXX_FLAGS =  -w -O3 -g -O3 -DNDEBUG -std=gnu++11
 
